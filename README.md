@@ -1,2 +1,8 @@
-# numerical_analysis
-includes my numerical analysis homeworks
+# Numerical Analysis Homeworks
+## What Does It Include
+Metodları yaz
+yıldızla
+## How can run
+
+
+## How can install
