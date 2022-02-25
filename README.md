@@ -1,32 +1,32 @@
 # Numerical Analysis Homeworks
 ## What Does It Include
-*Gauss Seidel Method
+* Gauss Seidel Method
 
-*3 Derivative Methods
+* 3 Derivative Methods
 
-**Central Diffrence Derivative
+** Central Diffrence Derivative
 
-**Back Diffrence Derivative
+** Back Diffrence Derivative
 
-**Forward Diffrence Derivative
+** Forward Diffrence Derivative
 
-*Bisection Method
+* Bisection Method
 
-*Gauss Elimination Method
+* Gauss Elimination Method
 
-*Graphic Method
+* Graphic Method
 
-*Matris Inverse
+* Matris Inverse
 
-*Newton Raphson Method
+* Newton Raphson Method
 
-*Regula Falsi Method
+* Regula Falsi Method
 
-*Secant Method
+* Secant Method
 
-*Simpson's Rule
+* Simpson's Rule
 
-*Trapeziodal Rule
+* Trapeziodal Rule
 
 ## How can run
 
