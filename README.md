@@ -4,11 +4,11 @@
 
 * 3 Derivative Methods
 
- ** Central Diffrence Derivative
+ * * Central Diffrence Derivative
 
- ** Back Diffrence Derivative
+ * * Back Diffrence Derivative
 
- ** Forward Diffrence Derivative
+ * * Forward Diffrence Derivative
 
 * Bisection Method
 
